@@ -1,0 +1,16 @@
+{
+  "name": "thruskills-express-mongo",
+  "version": "1.0.0",
+  "description": "workshop on nodejs, express & mongo",
+  "main": "index.js",
+  "repository": "git@github.com:samarpanda/thruskills-express-mongo.git",
+  "author": "er.samarpanda@gmail.com",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "lodash": "^4.17.10",
+    "morgan": "^1.9.0"
+  }
+}
