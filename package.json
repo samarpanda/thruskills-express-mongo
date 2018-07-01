@@ -7,10 +7,16 @@
   "author": "er.samarpanda@gmail.com",
   "license": "MIT",
   "private": true,
+  "scripts": {
+  	"dev": "nodemon server/server.js"
+  },
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
     "lodash": "^4.17.10",
     "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
   }
 }
