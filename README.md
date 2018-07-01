@@ -6,7 +6,7 @@ Taking a workshop for [Thruskills](https://www.thruskills.com/#utmsource=thruski
 
 Topic  |  Slide  |  Lesson  
 ------ | ------- | ---------
-Nodejs overview & Installation | [x] | 
+Nodejs overview & Installation | [x] | [ ]
 Basic express http server | [ ] | [x]
 Restful APIs | [ ] | [x]
 Express middleware & types | [ ] | [ ]
